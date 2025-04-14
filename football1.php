@@ -126,13 +126,15 @@
 
 				$query = $conn->query("SELECT *FROM product WHERE category='football' ORDER BY product_id DESC") or die (mysqli_error());
 
-					while($fetch = $query->fetch_array($query))
+					while($fetch = $query->fetch_array())
+
 						{
 
 						$pid = $fetch['product_id'];
 
 						$query1 = $conn->query("SELECT * FROM stock WHERE product_id = '$pid'") or die (mysql_error());
-						$rows = $query1->fetch_array($query1);
+						$rows = $query1->fetch_array();
+
 
 						$qty = $rows['qty'];
 						if($qty <= 5){
