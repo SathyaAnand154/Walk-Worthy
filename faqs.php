@@ -96,19 +96,19 @@
 
 
 		<div id="content">
-			<legend>Frequently Added Questions</legend>
+			<legend>Frequently Asked Questions</legend>
 
 				 <h4>DO YOU SHIP?</h4>
-					<p style="text-indent:60px;">Yes, we ship the products via LBC and 2GO only.</p>
+					<p style="text-indent:60px;">Yes, we ship the products.</p>
 				<hr>
 					<h4>DO YOU DELIVER?</h4>
-						<p style="text-indent:60px;">No, We only offer Shipping.</p>
+						<p style="text-indent:60px;">No, We only offer Shipping and Delivery.</p>
 				<hr>
 					<h4>WHEN WILL I GET MY ORDERS?</h4>
-						<p style="text-indent:60px;">We wil ship your product 2-3 days around Negros Occidental and It will take 4-6 days Nationwide.</p>
+						<p style="text-indent:60px;">We wil ship your product 2-3 days around and It will take 4-6 days Nationwide.</p>
 				<hr>
 					<h4>HOW DO I PAY MY ORDERS?</h4>
-					<p style="text-indent:60px;">Through PAYPAL basis only.</p>
+					<p style="text-indent:60px;">Through ONLINE basis only.</p>
 
 		</div>
 	<br />

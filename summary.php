@@ -31,7 +31,7 @@ $paypal_id='yhannaki@gmail.com'; // Business email ID
 
 	<div id="header">
 		<img src="img/logo.jpg">
-		<label>Online Shoe Store</label>
+		<label>Walk Worthy</label>
 
 			<?php
 				$id = (int) $_SESSION['id'];
@@ -198,7 +198,7 @@ $paypal_id='yhannaki@gmail.com'; // Business email ID
 	<div id="footer">
 		<div class="foot">
 			<label style="font-size:17px;"> Copyrght &copy; </label>
-			<p style="font-size:25px;">Online Shoe Store Inc. 2017 Brought To You by <a href="https://code-projects.org/">Code-Projects</a></p>
+			<p style="font-size:25px;">Walk Worthy Store Inc. 2025 Brought To You by SOMEONE</p>
 		</div>
 
 			<div id="foot">

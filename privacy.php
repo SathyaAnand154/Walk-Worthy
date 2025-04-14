@@ -27,7 +27,7 @@
 <body>
 	<div id="header">
 		<img src="img/logo.jpg">
-		<label>Online Shoe Store</label>
+		<label>Walk Worthy</label>
 			<ul>
 				<li><a href="#signup"   data-toggle="modal">Sign Up</a></li>
 				<li><a href="#login"   data-toggle="modal">Login</a></li>
@@ -98,8 +98,8 @@
 
 		<div id="content">
 			<legend><h3>Privacy Policy</h3></legend>
-				<p>The Online Shoe Store Incorporated respect the privacy of the visitors
-					to the Online Shoe Store.com website and the local websites connected with it, and take great care to protect your
+				<p>The Walk Worthy Incorporated respect the privacy of the visitors
+					to the walkworthy.com website and the local websites connected with it, and take great care to protect your
 					information.. This privacy policy tells you what information we collect from you, how we may use it and
 					the steps we take to ensure that it is protected.
 				</p>
@@ -109,7 +109,7 @@
 						security measures. Your personal information is contained behind secured networks and is only accessible
 						by a limited number of people, who have special access rights and are required to keep the information
 						confidential.Please keep in mind though that whenever you give out personal information online there is a
-						risk that third parties may intercept and use that information. While Online Shoe Store strives to protect its user's
+						risk that third parties may intercept and use that information. While Walk Worthy strives to protect its user's
 						personal information and privacy, we cannot guarantee the security of any information you disclose online
 						and you do so at your own risk.</p>
 			<hr>
@@ -138,7 +138,7 @@
 	<div id="footer">
 		<div class="foot">
 			<label style="font-size:17px;"> Copyrght &copy; </label>
-			<p style="font-size:25px;">Online Shoe Store Inc. 2017 Brought To You by <a href="https://code-projects.org/">Code-Projects</a></p>
+			<p style="font-size:25px;">Walk Worthy Store Inc. 2025 Brought To You by SOMEONE</p>
 		</div>
 
 			<div id="foot">
