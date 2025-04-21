@@ -23,7 +23,7 @@
 <body>
 	<div id="header">
 		<img src="../img/logo.jpg">
-		<label>Online Shoe Store</label>
+		<label>Walk Worthy</label>
 	</div>
 
 		<?php include('../function/admin_login.php');?>

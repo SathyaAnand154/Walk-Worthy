@@ -138,7 +138,7 @@ $grandtotal=$totalcharge+$total;
         <input type="hidden" name="amount" value="<?php echo $grandtotal; ?>" />
         <input type="hidden" name="no_shipping" value="1" />
         <input type="hidden" name="no_note" value="1" />
-        <input type="hidden" name="currency_code" value="PHP" />
+        <input type="hidden" name="currency_code" value="₹" />
         <input type="hidden" name="lc" value="GB" />
         <input type="hidden" name="bn" value="PP-BuyNowBF" /><br />
 		<div style="margin:0 auto; width:50px;">

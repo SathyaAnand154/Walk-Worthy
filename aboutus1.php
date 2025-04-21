@@ -114,7 +114,7 @@
 					<h4 style="text-indent:60px;">To provide a high quality footwear that suit the athletes style and to be one of the leading sports footwear apparel in the country.</h4>
 			<br />
 				<legend><h3>Vision</h3></legend>
-					<h4 style="text-indent:60px;">Online Shoe Store, the company that inspire, motivate, and give determination to the sports enthusiast.</h4>
+					<h4 style="text-indent:60px;">Walk Worthy Store, the company that inspire, motivate, and give determination to the sports enthusiast.</h4>
 			<br />
 
 		</div>

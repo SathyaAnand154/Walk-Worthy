@@ -1,6 +1,6 @@
 <?php
 $paypal_url='https://www.sandbox.paypal.com/cgi-bin/webscr'; // Test Paypal API URL
-$paypal_id='yhannaki@gmail.com'; // Business email ID
+$paypal_id='sathyanand@gmail.com'; // Business email ID
 ?>
 <?php
 	include("function/session.php");
@@ -145,7 +145,7 @@ $paypal_id='yhannaki@gmail.com'; // Business email ID
 
 	</table>
 	<legend></legend>
-	<h4>TOTAL: Php <?php echo $amnt; ?></h4>
+	<h4>TOTAL: ₹<?php echo $amnt; ?></h4>
 	</form>
 	<div class='pull-right'>
 <div class="">

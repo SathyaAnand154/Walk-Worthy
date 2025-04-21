@@ -109,8 +109,8 @@
 
 		<div id="content">
 			<legend><h3>Privacy Policy</h3></legend>
-				<p>The Online Shoe Store Incorporated respect the privacy of the visitors
-					to the Online Shoe Store.com website and the local websites connected with it, and take great care to protect your
+				<p>The Walk Worthy Store Incorporated respect the privacy of the visitors
+					to the Walk Worthy Store.com website and the local websites connected with it, and take great care to protect your
 					information.. This privacy policy tells you what information we collect from you, how we may use it and
 					the steps we take to ensure that it is protected.
 				</p>
